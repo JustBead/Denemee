@@ -3,7 +3,7 @@ import telebot
 import json
 
 # Telegram bot token'ınızı buraya girin
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '8026541050:AAEfrfEPvy3Ep5V4NSbQcw4zTJhQ89d9VmY'
 bot = telebot.TeleBot(TOKEN)
 
 # Fake profil veritabanı (200 Türk kullanıcı adı)
